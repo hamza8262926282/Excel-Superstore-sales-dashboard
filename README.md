@@ -1,11 +1,11 @@
-# Retail Sales Analysis (Excel Project)
+# **Retail Sales Analysis (Excel Project)**
 
 ## 📊 Project Overview
 This project focuses on analyzing retail sales data using Microsoft Excel.  
 The goal of the project is to identify **sales trends, seasonal patterns, and product performance** over time.  
 
 ## 🗂 Dataset
-- **File:** `New_data.xlsx`  
+- **File:** `Superstore_sales_raw_data.xlsx`  
 - Contains sales records including product categories, revenue, region-wise sales, and monthly trends.  
 
 ## **🔍 Key Analysis Performed**
@@ -21,12 +21,9 @@ The goal of the project is to identify **sales trends, seasonal patterns, and pr
 - Certain product categories show consistent long-term growth.  
 
 ## **🛠 Tools Used**
-- **Microsoft Excel** (Pivot Tables, Charts, Conditional Formatting, Moving Averages)  
-
-## **📷 Sample Visuals**
-(Add screenshots of your key charts here, for example: `images/sales_trend.png`)  
+- **Microsoft Excel** (Pivot Tables, Charts, Conditional Formatting, Moving Averages)   
 
 ## **🚀 How to Use**
 1. Download the repository.  
-2. Open `New_data.xlsx` in Microsoft Excel.  
+2. Open `superstore-sales-project.xlsx` in Microsoft Excel.  
 3. Explore the different sheets and dashboards to view insights.
